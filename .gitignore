@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Postman json files
+*.postman_collection.json
+*.postman_environment.json
+
+# Project files
+key.json
+run.sh
